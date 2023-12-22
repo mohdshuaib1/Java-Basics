@@ -1,0 +1,34 @@
+JVM-- JVM stands for JAVA VIRTUAL MACHINE
+      When we write a program it can be saved with its name (.java) 
+          Ex- firstprograme.java
+              after saving the program it can be compiled into the (.class) & (.class), which is called BYTECODE
+
+
+                    [.java] --> COMPILE -->  [.class] 
+                                                :.:
+                                                :.:
+                                                 .
+                                  (.class) also named as BYTE code
+
+NOTE :::: THROUGH THE JVM OUR BYTECODE HAS BEEN RUN.
+
+
+JRE-- JRE stands for JAVA RUN ENVIRONMENT, it provides the libraries and it includes JVM + libraries + other components
+
+                JRE == JVM + Libararies + Other Components;;
+
+
+JDK-- JDK stands for JAVA DEVELOPMENT KIT,  its a superset of JRE
+
+                JDK == JRE + Compiler + Debugger etc;;
+
+
+
+
+
+
+
+
+
+
+
